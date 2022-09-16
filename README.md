@@ -4,18 +4,5 @@
 
 ![Display](https://github.com/thaian161/CSS-battle/blob/main/docs/Battle%2019%20-%20Spacing.png)
 
-<div align="center"> --- <div>
+<div align="center"> ------------ <div>
 
-
-
-!()[]
-(Source Code)[]
-
-!()[]
-(Source Code)[]
-
-!()[]
-(Source Code)[]
-
-!()[]
-(Source Code)[]
