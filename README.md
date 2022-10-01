@@ -1,6 +1,7 @@
 ### Playing around with CSS as a way to relax, why not? 😛
 
-
+<style>
+  
 | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|
 |[Letter A](https://codepen.io/thaian161/pen/ZEoKJvG)<img width="400" alt="Letter A" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterA.png?raw=true">|[Letter N](https://codepen.io/thaian161/pen/poVPrqJ)<img width="400" alt="Letter N" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterN1.png?raw=true">|[Letter N](https://codepen.io/thaian161/pen/VwxbzRx)<img width="400" alt="Letter N" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterN2.png?raw=true">|
@@ -10,7 +11,7 @@
 |[Notes](https://codepen.io/thaian161/pen/poVrWYb)<img width="400" alt="Notes" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Notes.png?raw=true">|[Ukulele](https://codepen.io/thaian161/pen/vYjmpvr)<img width="400" alt="Ukulele" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Ukulele.png?raw=true">|[Piano](https://codepen.io/thaian161/pen/jOxLggd)<img width="400" alt="Piano" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Piano.png?raw=true">|
 |[Headphones](https://codepen.io/thaian161/pen/mdLXGRo)<img width="250" height="250" alt="Headphones" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Headphones.png?raw=true">|[Amegakure](https://codepen.io/thaian161/pen/eYrVPaa)<img width="250" height="250" alt="Amegakure" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Amegakure.png?raw=true">|[Sakura](https://codepen.io/thaian161/pen/JjvvoZp)<img width="250" height="250" alt="Sakura" src="https://github.com/thaian161/CSS-battle/blob/main/docs/Sakura.png?raw=true">|
 
-<style>
+
 img {
   border-radius:10px;
 }
