@@ -1,7 +1,6 @@
 ### Playing around with CSS as a way to relax, why not? 😛
 
-
-
+| | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|
 |[Letter A](https://codepen.io/thaian161/pen/ZEoKJvG)<img width="230" alt="Letter A" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterA.png?raw=true">|[Letter N](https://codepen.io/thaian161/pen/poVPrqJ)<img width="230" alt="Letter N" src="https://github.com/thaian161/CSS-battle/blob/main/docs/N.png">|[Letter N](https://codepen.io/thaian161/pen/VwxbzRx)<img width="230" alt="Letter N" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterN2.png?raw=true">|
 |[Letter B](https://codepen.io/thaian161/pen/eYrrNVK)<img width="230" alt="Letter B" src="https://github.com/thaian161/CSS-battle/blob/main/docs/B.png?raw=true">|[Letter U](https://codepen.io/thaian161/pen/XWqqbLO)<img width="230" alt="Letter U" src="https://github.com/thaian161/CSS-battle/blob/main/docs/U.png?raw=true">|[Letter I](https://codepen.io/thaian161/pen/MWXEpqy)<img width="230" alt="Letter I" src="https://github.com/thaian161/CSS-battle/blob/main/docs/LetterI.png?raw=true">|
